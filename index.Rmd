@@ -10,7 +10,7 @@ output:
 # This is Mingyin's awesome website
 
 
-Hi! This is Mingyin. If you want to know about me and my professional experience,  visit [this page](about.html). Or you can click the `About` button on the upper right corner
+Hi! This is Mingyin. If you want to know about me and my academic and professional experience,  visit [this page](about.html). Or you can click the `About` button on the upper right corner
 
 For the plots in problem 2, you can click the `Dashboard` button on the upper right corner or click [this button](dashboard.html).
 
