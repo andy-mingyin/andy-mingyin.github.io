@@ -10,6 +10,10 @@ output:
 # This is Mingyin's awesome website
 
 
-Hi! This is Mingyin. If you want to know about me and my professional experience,  visit [this page](about.html).
+Hi! This is Mingyin. If you want to know about me and my professional experience,  visit [this page](about.html). Or you can click the `About` button on the upper right corner
 
-For the dashboard plots in problem 2, you can click the dashboard button on the upper right corner or click [this button](dashboard.html).
+For the plots in problem 2, you can click the `Dashboard` button on the upper right corner or click [this button](dashboard.html).
+
+If you want to email me, can click the letter button on the upper right corner or click [this button](mailto:aw3693@cumc.columbia.edu).
+
+If you want to see my Github Website, can click the Github icon on the upper right corner or click [this button](http://github.com/andy-mingyin/).
