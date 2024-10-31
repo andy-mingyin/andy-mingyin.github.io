@@ -1,0 +1,14 @@
+---
+title: "Mingyin's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Mingyin's awesome website
+
+
+Hi! This is Mingyin. If you want to know about my professional experience and ,  visit [this page](about.html).
+
